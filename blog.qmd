@@ -1,0 +1,7 @@
+---
+title: "Blog"
+listing:
+  type: grid
+  contents: posts
+  image-height: 330px
+---

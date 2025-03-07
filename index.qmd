@@ -1,11 +1,15 @@
 ---
-title: "labwebsite"
+title: "Phillips Environmental Communications Lab"
+image: media/headshot.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
 ---
 
-This is a Quarto website.
+🎓 Science Education · 🏛️ Science Policy · 🧬 Science Communication · 🎨 Science Art · 🌊 Oceanography
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+You can't solve environmental problems in a vacuum.
 
-```{r}
-1 + 1
-```
+The Phillips Environmental Communications Lab is located at the Bren School of Environmental Science and Management at UC Santa Barbara.

@@ -1,0 +1,11 @@
+---
+title: "🏛️ Science Communication and Policy Fellowships"
+subtitle: "There are numerous opportuntiies for environmental scientists to engage in communications and policy work throughout their career"
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+image: blogmedia/congress.jpeg
+---
+
+Science policy and science communication are growing skills, but there are few opportunities to have meaningful experiences without external fellowships.
